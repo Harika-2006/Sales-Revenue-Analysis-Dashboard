@@ -34,4 +34,5 @@ The dashboard provides a clear understanding of revenue trends, top-performing p
 
  🖼 Dashboard Preview
  
-<img width="872" height="660" alt="Screenshot 2026-05-15 234755" src="https://github.com/user-attachments/assets/691f43c8-74f8-468f-8a49-eb8d55a3f265" />
+<img width="840" height="638" alt="image" src="https://github.com/user-attachments/assets/e8c7980b-1bb7-4ee7-baa0-4f5c4bf9200b" />
+
